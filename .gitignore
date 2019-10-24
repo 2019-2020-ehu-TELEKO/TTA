@@ -1,17 +1,11 @@
-### ApacheCordova ###
-# Apache Cordova generated files and directories
-#!/plugins/android.json
-#!/plugins/fetch.json
-#plugins/*
-#platforms/*
-#node_modules/*
-#package.json
-#package-lock.json
+### ApacheCordova via Eclipse###
+# Apache Cordova and Eclipse generated files and directories
 
-!/plugins/android.json
-!/plugins/fetch.json
-*/plugins/
+*/plugins/*/
 */platforms/
 */node_modules/
 */package.json
 */package-lock.json
+*/.project
+*/.tern-project
+*/.settings/
