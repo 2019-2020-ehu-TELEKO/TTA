@@ -1,9 +1,17 @@
 ### ApacheCordova ###
 # Apache Cordova generated files and directories
+#!/plugins/android.json
+#!/plugins/fetch.json
+#plugins/*
+#platforms/*
+#node_modules/*
+#package.json
+#package-lock.json
+
 !/plugins/android.json
 !/plugins/fetch.json
-plugins/*
-platforms/*
-node_modules/*
-package.json
-package-lock.json
+*/plugins/
+*/platforms/
+*/node_modules/
+*/package.json
+*/package-lock.json
